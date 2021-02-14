@@ -5,6 +5,6 @@ public class Owl extends Animal {
     @Override
     void saySomething() {
         System.out.println("jestem sową!");
+        System.out.println("I'm owl");
     }
-
 }
